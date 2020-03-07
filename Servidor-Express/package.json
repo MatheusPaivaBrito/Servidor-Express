@@ -1,0 +1,12 @@
+{
+  "name": "Tentativa",
+  "version": "1.0.0",
+  "description": "Apenas meus estudos sobre Express",
+  "main": "index.js",
+  "repository": "https://github.com/MatheusPaivaBrito/Servidor-Express.git",
+  "author": "Matheus Paiva",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
