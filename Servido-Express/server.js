@@ -10,5 +10,5 @@ server.get('/Casa', (req, res) => {
 })
 
 server.listen(3000, () =>{
-    console.log('bgrfvfd')
+    console.log('Funcionou')
 })
